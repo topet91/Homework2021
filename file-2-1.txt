@@ -1,5 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 haohao
 =======
 test2
 >>>>>>> branch-2-1
+=======
+test2
+=======
+haohao
+>>>>>>> main
+>>>>>>> test
